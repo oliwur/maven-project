@@ -13,7 +13,7 @@ public class Greeter {
   }
 
   /**
-   * that's a javadoc command
+   * that's a javadoc command.
    * @param someone
    * @return a string
    */
